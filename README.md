@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odilbek7772001&label=Profile%20views&color=0e75b6&style=flat" alt="odilbek7772001" /> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://e-commerce-website-navy-five.vercel.app/)
+- 🔭 I’m currently working on https://islombek-nonlari-xamirxona.vercel.app/
 
 - 🌱 I’m currently learning **python programming language and AI.**
 
-- 👯 I’m looking to collaborate on [E-commerce](https://e-commerce-website-navy-five.vercel.app/)
+- 👯 I’m looking to collaborate on 
 
-- 👨‍💻 All of my projects are available at [https://e-commerce-website-navy-five.vercel.app/](https://e-commerce-website-navy-five.vercel.app/)
+- 👨‍💻 All of my projects are available at https://vercel.com/odilbeks-projects-527e4e32
 
 - 📝 I regularly write articles on [https://t.me/odilbeksafarov_blog](https://t.me/odilbeksafarov_blog)
 
-- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT, REACT JS**
+- 💬 Ask me about **HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT, REACT JS**
 
 - 📫 How to reach me **odiljonxaker@gmail.com**
 
